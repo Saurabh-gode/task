@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: purple;
+}
+
+input{
+    margin: 0.5rem;
+    padding: 0.8rem;
+    border: 2px solid gold;
+}
+button{
+    padding: 0.5rem 1.5rem;
+    color: red;
+    background-color: steelblue;
+    text-transform: uppercase;
+    border: 2px solid red;
+    border-radius: 25px;
+    font-weight: bold;
+}
+a{
+    margin: 1.2rem ;
+}
